@@ -1,0 +1,9 @@
+!**/src/main/**
+**/src/test/**
+mvnw
+mvnw.cmd
+.mvn/**
+.idea/**
+target/**
+kafka_client.iml
+HELP.md
